@@ -29,6 +29,7 @@ $ python run.py assignment1.py
 Here is the flowchart of the program logic. In this flowchart whole logic of the main program has been in the form of blocks. So that anyone can easily understand the logic of the proposed code.
 
 [FlowChart.png.odg](https://github.com/awaistahir29/Assignment-01-RT-/files/7521711/FlowChart.png.odg)
+![Screenshot from 2021-11-11 23-32-16](https://user-images.githubusercontent.com/48767537/141378526-cc56da5f-6ec4-41af-b486-dd47f53304b5.png)
 
 
 Robot API
