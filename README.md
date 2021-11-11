@@ -12,7 +12,6 @@ The simulator requires a Python 2.7 installation, the [pygame](http://pygame.org
 Once the dependencies are installed, simply run the `test.py` script to test out the simulator.
 
 ## Assignemnt #01
------------------------------
 
 To run the script in the simulator, use `run.py`, passing it the file names. 
 
@@ -20,10 +19,17 @@ There is a file containing the the solution of the first assignment assignment1.
 I've commented all the instructions inside the file and briefly explain each step
 
 When done, you can run the program with:
-
 ```bash
 $ python run.py assignment1.py
 ```
+
+
+## Flowchart
+
+Here is the flowchart of the program logic. In this flowchart whole logic of the main program has been in the form of blocks. So that anyone can easily understand the logic of the proposed code.
+
+[FlowChart.png.odg](https://github.com/awaistahir29/Assignment-01-RT-/files/7521711/FlowChart.png.odg)
+
 
 Robot API
 ---------
