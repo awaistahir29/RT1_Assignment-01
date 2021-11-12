@@ -22,7 +22,6 @@ When done, you can run the program with:
 $ python run.py assignment1.py
 ```
 
-
 ## Flowchart
 
 Here is the flowchart of the program logic. In this flowchart whole logic of the main program has been in the form of blocks. So that anyone can easily understand the logic of the proposed code.
@@ -30,6 +29,10 @@ Here is the flowchart of the program logic. In this flowchart whole logic of the
 [FlowChart.png.odg](https://github.com/awaistahir29/Assignment-01-RT-/files/7521711/FlowChart.png.odg)
 ![Screenshot from 2021-11-11 23-32-16](https://user-images.githubusercontent.com/48767537/141378526-cc56da5f-6ec4-41af-b486-dd47f53304b5.png)
 
+## Possible Suggestions
+
+We can improve the logic of the program which I proposed, in different ways 
+We can improve the movements of the robot like if it detect the golden token, it turns but it see golden token all around it which tend the robot turn and takes too much time.So, we can improve its logic by tunning it.
 
 Robot API
 ---------
